@@ -1,0 +1,18 @@
+body{
+    margin: 300px;
+    background-image: url(https://i2.wp.com/plexmx.info/wp-content/uploads/2019/07/marvel_birthday_final.jpg?fit=1250%2C1949&ssl=1);
+}
+h1{
+    background-color: darkgreen;
+    color: red;
+    width: 100%;
+    text-align: center;
+}
+a{
+    background-color: white;
+    color: black;
+}
+h2{
+    background-color: turquoise;
+    color: slategray;
+}
